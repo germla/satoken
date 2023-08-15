@@ -13,3 +13,7 @@ Satoken is the microservice which powers AI related features of the [Germla](htt
 - [BERTopic](https://arxiv.org/abs/2203.05794) - Topic modeling
 - [Sentence-Transformers](https://arxiv.org/abs/1908.10084) - Text summarization
 - [SetFit](https://arxiv.org/abs/2209.11055) - Sentiment analysis
+
+## License
+
+This project is licensed under GNU Affero General Public License v3.0.
